@@ -15,8 +15,14 @@ I'm not the original author of this script. I modified according to my requireme
 
 5. ./whatever.sh yourlist.txt
 
-![image](https://github.com/ifconfig-me/knoxss-bulk-scan/assets/25315805/b4e7ef55-0873-4714-afbf-e3bee8a843eb)
+The script shows if the url is vulnerable or no:
+
 ![image](https://github.com/ifconfig-me/knoxss-bulk-scan/assets/25315805/1e08c93a-2bf5-46cc-9f7a-fbe442a2627e)
+
+If a vulnerable url found, it will create a file in the running directlry with the vulnerable url and PoC
+
+![image](https://github.com/ifconfig-me/knoxss-bulk-scan/assets/25315805/b4e7ef55-0873-4714-afbf-e3bee8a843eb)
+
 
 > [!CAUTION]
 > ⚠️ Disclaimer:
