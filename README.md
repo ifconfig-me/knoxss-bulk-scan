@@ -2,7 +2,10 @@
 
 This tiny bash script bulk scans the list of urls and shows if the url is vulnerable or no and if the urls is vulnerable, it saves the results in to a text file **XSS-Scan-results.txt**
 
-I'm not the original author of this script. I modified according to my requirements. 
+I'm not the original author of this script. I modified according to my requirements. +
+
+### Note: 
+#### It's mandatory to encode all "&" as "%26" in URL  parameters. Otherwise, #KNOXSS may not find any XSS vulnerabilities. #BugBounty
 
 > [!CAUTION]
 > ⚠️ Disclaimer:
