@@ -7,14 +7,6 @@ I'm not the original author of this script. I modified according to my requireme
 ### Note: 
 **It's mandatory to encode all "&" as "%26" in URL  parameters. Otherwise, #KNOXSS may not find any XSS vulnerabilities.**
 
-### Usage
-1. Copy the code and save it as whatever.sh
-2. Change the export file name if required
-3. Add your API key
-4. Then chmod +x whatever.sh
-
-5. ./whatever.sh yourlist.txt
-
 The script shows if the url is vulnerable or no:
 
 ![image](https://github.com/ifconfig-me/knoxss-bulk-scan/assets/25315805/1e08c93a-2bf5-46cc-9f7a-fbe442a2627e)
