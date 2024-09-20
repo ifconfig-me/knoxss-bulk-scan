@@ -1,5 +1,4 @@
 #!/bin/bash
-
 file="$1"
 key="*******your-API******"
 output_file="XSS-Scan-results.txt"
